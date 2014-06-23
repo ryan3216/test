@@ -8,7 +8,8 @@
 "	      for Amiga:  s:.vimrc
 "  for MS-DOS and Win32:  $VIM\_vimrc
 "	    for OpenVMS:  sys$login:.vimrc
-"fd
+"fd#sfds
+":sdf
 
 " When started as "evim", evim.vim will already have done these settings.
 if v:progname =~? "evim"
