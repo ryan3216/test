@@ -3,6 +3,8 @@
 " Maintainer:	Bram Moolenaar <Bram@vim.org>
 " Last change:	2011 Apr 15
 "
+"
+"
 " To use it, copy it to
 "     for Unix and OS/2:  ~/.vimrc
 "	      for Amiga:  s:.vimrc
@@ -10,6 +12,8 @@
 "	    for OpenVMS:  sys$login:.vimrc
 " linux mod
 " linuxmod
+"" win mod
+
 " When started as "evim", evim.vim will already have done these settings.
 if v:progname =~? "evim"
   finish
