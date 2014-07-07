@@ -1,4 +1,4 @@
 fr
 sf
 
-eidt in windows7
+eidt in linux
